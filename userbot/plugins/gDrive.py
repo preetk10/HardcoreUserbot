@@ -22,7 +22,7 @@ import httplib2
 
 
 # Path to token json file, it should be in same directory as script
-G_DRIVE_TOKEN_FILE = Var.TEMP_G_DRIVE_TOKEN 
+G_DRIVE_TOKEN_FILE = Var.G_DRIVE_TOKEN 
 # Copy your credentials from the APIs Console
 CLIENT_ID = Var.G_DRIVE_CLIENT_ID
 CLIENT_SECRET = Var.G_DRIVE_CLIENT_SECRET
